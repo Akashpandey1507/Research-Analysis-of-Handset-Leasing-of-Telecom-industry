@@ -10,5 +10,5 @@
 1. Institutional Knowledge (InK) at Singapore Management University, Transformation of 
 Globe Telecom - [Click Here](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=7205&context=lkcsb_research)
 2. PhillipCapital, SG Telco Sector - [Click Here](https://internetfileserver.phillip.com.sg/POEMS/Stocks/Research/SectorStrategy/SG/TelcoSector20190104.pdf)
-3. Blog, Are smartphone rentals value for money?- [Click Here](https://www.mobileworldlive.com/devices/blogs-devices/blogs-handset-rentals-offersurprising-value/)
-4. Market Realist, Why Sprint Is Focusing on and set Leasing to Accelerate Growth - [Click Here](https://marketrealist.com/2017/04/why-sprint-is-focusing-on-handset-leasing-toaccelerate-growth)
+3. Blog, Are smartphone rentals value for money?- [Click Here](https://www.mobileworldlive.com/blog/blogs-handset-rentals-offer-surprising-value/)
+4. Market Realist, Why Sprint Is Focusing on and set Leasing to Accelerate Growth - [Click Here](https://marketrealist.com/2017/04/why-sprint-is-focusing-on-handset-leasing-to-accelerate-growth/)
